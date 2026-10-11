@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\qa\\rows\\failed\\frames",
+  "states": [
+    "failed"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\qa\\rows\\failed\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15486,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        },
+        {
+          "index": 1,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\qa\\rows\\failed\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14934,
+          "bbox": [
+            41,
+            9,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 2,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\qa\\rows\\failed\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13446,
+          "bbox": [
+            36,
+            32,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 170
+        },
+        {
+          "index": 3,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\qa\\rows\\failed\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11382,
+          "bbox": [
+            29,
+            70,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 141
+        },
+        {
+          "index": 4,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\qa\\rows\\failed\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12058,
+          "bbox": [
+            33,
+            55,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 171
+        },
+        {
+          "index": 5,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\qa\\rows\\failed\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14366,
+          "bbox": [
+            40,
+            11,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 193
+        },
+        {
+          "index": 6,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\qa\\rows\\failed\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14273,
+          "bbox": [
+            41,
+            9,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 7,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\qa\\rows\\failed\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15056,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ok": true,
+  "atlas": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\clear-v2\\final\\spritesheet-extended.png",
+  "encoded_bytes": 4168408,
+  "sha256": "5d3181d1d6cd491097a377c7bf6088c7b5dfb9e6783d132d73282602de1672dd",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      197,
+      174,
+      201,
+      202
+    ],
+    "airborne_lift_pixels": 28,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      92.0,
+      91.0,
+      90.5,
+      91.0,
+      90.5,
+      90.5,
+      91.0,
+      91.0,
+      91.0,
+      91.5,
+      91.0,
+      92.0,
+      91.5,
+      91.0,
+      91.0,
+      91.0
+    ],
+    "look_widths": [
+      164,
+      162,
+      161,
+      162,
+      161,
+      163,
+      162,
+      164,
+      166,
+      165,
+      164,
+      164,
+      165,
+      166,
+      166,
+      168
+    ],
+    "maximum_center_drift_pixels": 5.5,
+    "maximum_width_ratio": 1.0434782608695652
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "000 has transparent interior hole rows (y=14, y=15, y=16, y=17, +4 more)",
+    "022.5 has transparent interior hole rows (y=12)",
+    "180 has transparent interior hole rows (y=9, y=10, y=11, y=12, +4 more)",
+    "090->112.5 diff is a local outlier (2307 pixels vs neighbor average 1354)",
+    "157.5->180 diff is a local outlier (3738 pixels vs neighbor average 2354)",
+    "337.5->000 diff is a local outlier (2805 pixels vs neighbor average 1888)"
+  ]
+}

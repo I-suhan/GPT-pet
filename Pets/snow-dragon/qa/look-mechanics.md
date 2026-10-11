@@ -1,0 +1,1 @@
+Torso, skirt hem and tail base stay anchored. Neck and head yaw/pitch to look; physical lavender eyes follow within original eyelids. Up raises chin and pupils toward top, down lowers chin and pupils toward bottom. Right/left nose tip and pupils turn toward viewer screen edge; no whole body turntable.

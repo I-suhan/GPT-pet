@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\clear-v2\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        543,
+        724
+      ],
+      "used_pixels": 210346,
+      "edge_pixels": 0,
+      "output": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\clear-v2\\qa\\cardinals\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        543,
+        0,
+        1086,
+        724
+      ],
+      "used_pixels": 199853,
+      "edge_pixels": 0,
+      "output": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\clear-v2\\qa\\cardinals\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1086,
+        0,
+        1629,
+        724
+      ],
+      "used_pixels": 204763,
+      "edge_pixels": 0,
+      "output": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\clear-v2\\qa\\cardinals\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1629,
+        0,
+        2172,
+        724
+      ],
+      "used_pixels": 198716,
+      "edge_pixels": 0,
+      "output": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\clear-v2\\qa\\cardinals\\270.png"
+    }
+  ]
+}

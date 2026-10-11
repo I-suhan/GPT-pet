@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\qa\\rows\\running\\frames",
+  "states": [
+    "running"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\qa\\rows\\running\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15719,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 123
+        },
+        {
+          "index": 1,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\qa\\rows\\running\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15667,
+          "bbox": [
+            37,
+            6,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        },
+        {
+          "index": 2,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\qa\\rows\\running\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15728,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 102
+        },
+        {
+          "index": 3,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\qa\\rows\\running\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15633,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 90
+        },
+        {
+          "index": 4,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\qa\\rows\\running\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15610,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 92
+        },
+        {
+          "index": 5,
+          "file": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\qa\\rows\\running\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15558,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 105
+        }
+      ]
+    }
+  ]
+}

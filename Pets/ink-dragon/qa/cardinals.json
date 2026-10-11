@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        622,
+        805
+      ],
+      "used_pixels": 211913,
+      "edge_pixels": 0,
+      "output": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\decoded\\look-anchors\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        622,
+        0,
+        1244,
+        805
+      ],
+      "used_pixels": 203386,
+      "edge_pixels": 0,
+      "output": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\decoded\\look-anchors\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1244,
+        0,
+        1866,
+        805
+      ],
+      "used_pixels": 205684,
+      "edge_pixels": 0,
+      "output": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\decoded\\look-anchors\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1866,
+        0,
+        2488,
+        805
+      ],
+      "used_pixels": 201115,
+      "edge_pixels": 0,
+      "output": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\decoded\\look-anchors\\270.png"
+    }
+  ]
+}

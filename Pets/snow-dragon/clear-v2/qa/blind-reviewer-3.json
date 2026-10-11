@@ -1,0 +1,74 @@
+{
+  "pairs": [
+    {
+      "pair": "Horizontal pair 1",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "Horizontal pair 2",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "Horizontal pair 3",
+      "A": "screen-left",
+      "B": "screen-right"
+    },
+    {
+      "pair": "Horizontal pair 4",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "Horizontal pair 5",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "Horizontal pair 6",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "Horizontal pair 7",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "Vertical pair 1",
+      "A": "up",
+      "B": "down"
+    },
+    {
+      "pair": "Vertical pair 2",
+      "A": "up",
+      "B": "down"
+    },
+    {
+      "pair": "Vertical pair 3",
+      "A": "up",
+      "B": "down"
+    },
+    {
+      "pair": "Vertical pair 4",
+      "A": "down",
+      "B": "up"
+    },
+    {
+      "pair": "Vertical pair 5",
+      "A": "up",
+      "B": "down"
+    },
+    {
+      "pair": "Vertical pair 6",
+      "A": "up",
+      "B": "down"
+    },
+    {
+      "pair": "Vertical pair 7",
+      "A": "up",
+      "B": "down"
+    }
+  ]
+}

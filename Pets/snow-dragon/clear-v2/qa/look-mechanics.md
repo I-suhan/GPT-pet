@@ -1,0 +1,1 @@
+Planted frontal torso, feet, compact skirt and tail anchor stay. Large head physically pitches/yaws via neck, original lavender eyeballs follow naturally. Clear raised chin/pupils up; lowered chin/open eyes down; nose to viewer edge for left/right. No whole-body turntable. Preserve thick outline and opaque whites.

@@ -1,0 +1,1 @@
+Torso, feet, dress, wings and tail stay planted frontally. Separate oversized head pitches/yaws; nose and amber eyeballs lead gaze. Horns bangs ears hair ring follow head; up lifts chin, down bows crown, right/left displace nose to named screen side.

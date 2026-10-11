@@ -1,0 +1,14 @@
+{
+  "pet": {
+    "id": "pet_6acb901dd33481919d2c0d95ecea13c5",
+    "name": "墨龙",
+    "description": "黑金长裙、琥珀眼的龙角少女，带有蝙蝠翅膀与卷尾，安静陪伴你的工作。",
+    "is_active": false,
+    "is_custom": true
+  },
+  "verified_in_list": true,
+  "active_pet_id": "default",
+  "library_status": "No Library tool available; durable local workflow saved under Pets/ink-dragon",
+  "generation_mode": "built-in imagegen",
+  "final_sha256": "60442e235eb09cacd7c4278a28e38ff13a11c850ee98b4691521ede5362e431c"
+}

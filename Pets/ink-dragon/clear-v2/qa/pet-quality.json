@@ -1,0 +1,69 @@
+{
+  "ok": true,
+  "atlas": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\clear-v2\\final\\spritesheet-extended.png",
+  "encoded_bytes": 3654730,
+  "sha256": "d1667ce155862c23e4dff7d3a378d8a26b7449cdfa50a60ff18167d30c6ed3d9",
+  "jump": {
+    "idle_baseline": 201,
+    "jump_baselines": [
+      202,
+      202,
+      174,
+      198,
+      202
+    ],
+    "airborne_lift_pixels": 28,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      96.0,
+      95.5,
+      95.0,
+      96.0,
+      95.0,
+      95.5,
+      95.0,
+      95.0,
+      95.5,
+      97.0,
+      99.5,
+      98.0,
+      100.0,
+      99.0,
+      98.5,
+      98.0
+    ],
+    "look_widths": [
+      134,
+      129,
+      128,
+      128,
+      128,
+      129,
+      128,
+      128,
+      141,
+      136,
+      133,
+      134,
+      132,
+      134,
+      137,
+      138
+    ],
+    "maximum_center_drift_pixels": 4.5,
+    "maximum_width_ratio": 1.1015625
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 045 accepted with a reviewed warning",
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 225 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "157.5->180 diff is a local outlier (5265 pixels vs neighbor average 2662)",
+    "337.5->000 diff is a local outlier (4293 pixels vs neighbor average 2584)"
+  ]
+}

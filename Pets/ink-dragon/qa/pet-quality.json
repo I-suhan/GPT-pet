@@ -1,0 +1,67 @@
+{
+  "ok": true,
+  "atlas": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\ink-dragon\\final\\spritesheet-extended.png",
+  "encoded_bytes": 3344928,
+  "sha256": "60442e235eb09cacd7c4278a28e38ff13a11c850ee98b4691521ede5362e431c",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      201,
+      167,
+      187,
+      202
+    ],
+    "airborne_lift_pixels": 35,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      100.0,
+      100.5,
+      100.5,
+      100.5,
+      100.5,
+      100.0,
+      100.5,
+      100.5,
+      100.5,
+      100.5,
+      100.5,
+      100.5,
+      100.5,
+      100.5,
+      100.5,
+      100.5
+    ],
+    "look_widths": [
+      100,
+      97,
+      97,
+      97,
+      97,
+      96,
+      97,
+      95,
+      101,
+      101,
+      101,
+      101,
+      101,
+      101,
+      101,
+      99
+    ],
+    "maximum_center_drift_pixels": 5.0,
+    "maximum_width_ratio": 1.063157894736842
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 045 accepted with a reviewed warning",
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "look direction 225 accepted with a reviewed warning",
+    "157.5->180 diff is a local outlier (2882 pixels vs neighbor average 1897)"
+  ]
+}

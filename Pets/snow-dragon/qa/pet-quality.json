@@ -1,0 +1,69 @@
+{
+  "ok": true,
+  "atlas": "D:\\prjs\\Front-End\\GPT-pet\\Pets\\snow-dragon\\final\\spritesheet-extended.png",
+  "encoded_bytes": 3560758,
+  "sha256": "7992f1d3053da3e2cc3dc334e965511ef0cc4f30d3478b847c44a1bed801187e",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      200,
+      194,
+      173,
+      202,
+      202
+    ],
+    "airborne_lift_pixels": 29,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      99.0,
+      99.0,
+      99.5,
+      98.5,
+      99.0,
+      100.0,
+      100.0,
+      99.0,
+      98.5,
+      101.0,
+      100.5,
+      99.5,
+      100.0,
+      100.0,
+      100.5,
+      101.0
+    ],
+    "look_widths": [
+      114,
+      110,
+      109,
+      109,
+      110,
+      110,
+      110,
+      110,
+      115,
+      108,
+      107,
+      109,
+      110,
+      110,
+      111,
+      110
+    ],
+    "maximum_center_drift_pixels": 5.0,
+    "maximum_width_ratio": 1.074766355140187
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "090->112.5 diff is a local outlier (2367 pixels vs neighbor average 1571)",
+    "157.5->180 diff is a local outlier (3595 pixels vs neighbor average 2176)",
+    "247.5->270 diff is a local outlier (2198 pixels vs neighbor average 1514)"
+  ]
+}
